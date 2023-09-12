@@ -7,6 +7,8 @@
 
 ### Sou um estudante que adora tecnologia 🚀, jogos 🎮 e softwares ❤️🖥️
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPinheiroCardoso&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que venho estudando e utilizando 👓
 
 <div style = "display; inline_block"><br/>
