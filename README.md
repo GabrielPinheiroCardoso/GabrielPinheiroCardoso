@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabriel Pinheiro👋🏻
+### Olá, me chamo Gabriel Pinheiro👋🏻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pinheiro-cardoso-640424265/)[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gabrielpinheiro4)
 
