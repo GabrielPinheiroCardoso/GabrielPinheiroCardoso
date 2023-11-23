@@ -1,6 +1,6 @@
-<div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=23&pause=1000&color=6915F7&background=FFFFFF00&repeat=true&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Gabriel+Pinheiro%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8807F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Mundo!+👋;+Me+Chamo+Gabriel+Pinheiro!;" />
+</h1>
 
 <div align="center"> 
   <a href="mailto:gabrielpinheirocardoso@gmail.com">
@@ -21,10 +21,9 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GabrielPinheiroCardoso&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=19&pause=2000&color=8807F7&background=FFFFFF00&multiline=true&random=false&width=530&lines=Sou+um+estudante+que+adora+tecnologia+%F0%9F%9A%80%2C;jogos+%F0%9F%8E%AE+e+softwares+%E2%9D%A4%EF%B8%8F%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
-    </div>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8807F7&center=true&vCenter=true&width=850&height=70&duration=4000&lines=Sou+um+estudante+que+adora+tecnologia+%F0%9F%9A%80%2C;jogos+%F0%9F%8E%AE+e+softwares+%E2%9D%A4%EF%B8%8F%F0%9F%96%A5%EF%B8%8F;" />
+</h1>
 
 <div style = "display; inline_block" align=center><br/>
     <a>
@@ -39,9 +38,10 @@
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GabrielPinheiroCardoso/GabrielPinheiroCardoso/output/github-contribution-grid-snake.svg" />
+  <br/>
 </div>
+
