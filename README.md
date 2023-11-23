@@ -39,9 +39,3 @@
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GabrielPinheiroCardoso/GabrielPinheiroCardoso/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-
